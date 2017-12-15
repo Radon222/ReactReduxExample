@@ -1,2 +1,2 @@
-# ReactReduxExample
-ReactRedux project example
+# React Redux Example
+React Redux project example
